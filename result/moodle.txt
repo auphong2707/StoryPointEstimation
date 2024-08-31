@@ -53,3 +53,14 @@ LightGBM regressor model's evaluation results:
  - Accuracy:                0.02
 -------------------------------------------------
 
+Stacking model's evaluation results:
+ - Mean squared error:      47.77
+ - Root mean squared error: 6.91
+ - Mean absolute error:     6.11
+ - R2 error:                -11.45
+ - F1 score:                0.00
+ - Precision:               0.00
+ - Recall:                  0.01
+ - Accuracy:                0.01
+-------------------------------------------------
+
