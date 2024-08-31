@@ -1,0 +1,13 @@
+Algorithm:
+ - Ridge Regressor [available]
+ - Support Vector Regressor [code - available, theory - easy]
+ - Random Forest Regressor [code - available, theory - easy]
+ - Gradient Boosting [code - available, theory - medium]
+ - XGBoost [code - available, theory - medium]
+ - Lightgbm [code - available, theory - medium]
+
+Embeding:
+ - doc2vec [already available]
+ - lookup [already available]
+ - bagofword [available]
+ - bert [code - ?, theory - hard]

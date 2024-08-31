@@ -1,0 +1,55 @@
+Elastic Net model's evaluation results:
+ - Mean squared error:      108.18
+ - Root mean squared error: 10.40
+ - Mean absolute error:     7.39
+ - R2 error:                -27.19
+ - F1 score:                0.02
+ - Precision:               0.44
+ - Recall:                  0.02
+ - Accuracy:                0.02
+-------------------------------------------------
+
+SVR RBF model's evaluation results:
+ - Mean squared error:      92.61
+ - Root mean squared error: 9.62
+ - Mean absolute error:     7.12
+ - R2 error:                -23.13
+ - F1 score:                0.01
+ - Precision:               0.01
+ - Recall:                  0.03
+ - Accuracy:                0.03
+-------------------------------------------------
+
+Random Forest model's evaluation results:
+ - Mean squared error:      42.46
+ - Root mean squared error: 6.52
+ - Mean absolute error:     6.02
+ - R2 error:                -10.06
+ - F1 score:                0.01
+ - Precision:               0.00
+ - Recall:                  0.01
+ - Accuracy:                0.01
+-------------------------------------------------
+
+XGBoost Regressor model's evaluation results:
+ - Mean squared error:      62.85
+ - Root mean squared error: 7.93
+ - Mean absolute error:     6.84
+ - R2 error:                -15.38
+ - F1 score:                0.00
+ - Precision:               0.00
+ - Recall:                  0.00
+ - Accuracy:                0.00
+-------------------------------------------------
+
+LightGBM regressor model's evaluation results:
+ - Mean squared error:      55.69
+ - Root mean squared error: 7.46
+ - Mean absolute error:     7.24
+ - R2 error:                -13.51
+ - F1 score:                0.00
+ - Precision:               0.00
+ - Recall:                  0.02
+ - Accuracy:                0.02
+-------------------------------------------------
+

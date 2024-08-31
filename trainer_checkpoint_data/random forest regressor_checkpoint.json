@@ -1,0 +1,11 @@
+{
+    "last_combination": 107,
+    "best_params": {
+        "max_depth": 2000,
+        "min_samples_split": 25,
+        "min_samples_leaf": 1,
+        "max_features": 50,
+        "n_estimators": 1024
+    },
+    "best_score": -0.9764770928328048
+}
