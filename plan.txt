@@ -5,9 +5,12 @@ Algorithm:
  - Gradient Boosting [code - available, theory - medium]
  - XGBoost [code - available, theory - medium]
  - Lightgbm [code - available, theory - medium]
+ - Blended [code - available, thery - ?]
 
 Embeding:
  - doc2vec [already available]
  - lookup [already available]
  - bagofword [available]
  - bert [code - ?, theory - hard]
+
+4 * 7 = 28
