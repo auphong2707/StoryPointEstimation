@@ -3,6 +3,7 @@ import json
 from IPython.display import clear_output
 from sklearn.model_selection import cross_val_score
 import os
+from tqdm import tqdm
 
 class GridSearchCVTrainer:
     __directory = 'trainer_checkpoint_data/'
@@ -37,9 +38,7 @@ class GridSearchCVTrainer:
             raise ValueError("param_grid must be a dictionary or a list of dictionaries.")
         
     def fit(self, X, y):
-        for i in range(self.__last_combination + 1, len(self.__param_combinations)):
-            clear_output(wait=True)
-            print(f"Training combination {i + 1}/{len(self.__param_combinations)}")
+        for i in tqdm(range(self.__last_combination + 1, len(self.__param_combinations))):
             params = self.__param_combinations[i]
             
             model = self.model
