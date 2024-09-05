@@ -9,7 +9,7 @@ Elastic Net model's evaluation results:
  - Accuracy:                0.04
 -------------------------------------------------
 
-SVR RBF model's evaluation results:
+SVR model's evaluation results:
  - Mean squared error:      7.53
  - Root mean squared error: 2.74
  - Mean absolute error:     2.14
@@ -21,25 +21,25 @@ SVR RBF model's evaluation results:
 -------------------------------------------------
 
 Random Forest model's evaluation results:
- - Mean squared error:      6.78
- - Root mean squared error: 2.60
- - Mean absolute error:     1.78
- - R2 error:                0.07
- - F1 score:                0.12
- - Precision:               0.08
+ - Mean squared error:      6.88
+ - Root mean squared error: 2.62
+ - Mean absolute error:     1.80
+ - R2 error:                0.06
+ - F1 score:                0.13
+ - Precision:               0.09
  - Recall:                  0.25
  - Accuracy:                0.25
 -------------------------------------------------
 
 XGBoost Regressor model's evaluation results:
- - Mean squared error:      6.18
- - Root mean squared error: 2.49
- - Mean absolute error:     1.75
- - R2 error:                0.15
- - F1 score:                0.14
- - Precision:               0.19
- - Recall:                  0.18
- - Accuracy:                0.18
+ - Mean squared error:      7.62
+ - Root mean squared error: 2.76
+ - Mean absolute error:     2.02
+ - R2 error:                -0.05
+ - F1 score:                0.04
+ - Precision:               0.03
+ - Recall:                  0.07
+ - Accuracy:                0.07
 -------------------------------------------------
 
 LightGBM regressor model's evaluation results:
@@ -54,13 +54,13 @@ LightGBM regressor model's evaluation results:
 -------------------------------------------------
 
 Stacking model's evaluation results:
- - Mean squared error:      6.63
- - Root mean squared error: 2.58
- - Mean absolute error:     1.99
- - R2 error:                0.09
- - F1 score:                0.11
- - Precision:               0.08
- - Recall:                  0.14
- - Accuracy:                0.14
+ - Mean squared error:      6.75
+ - Root mean squared error: 2.60
+ - Mean absolute error:     1.74
+ - R2 error:                0.07
+ - F1 score:                0.16
+ - Precision:               0.26
+ - Recall:                  0.21
+ - Accuracy:                0.21
 -------------------------------------------------
 
