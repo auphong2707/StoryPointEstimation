@@ -1,0 +1,66 @@
+Elastic Net model's evaluation results:
+ - Mean squared error:      11.64
+ - Root mean squared error: 3.41
+ - Mean absolute error:     2.62
+ - R2 error:                0.06
+ - F1 score:                0.10
+ - Precision:               0.09
+ - Recall:                  0.12
+ - Accuracy:                0.12
+-------------------------------------------------
+
+SVR model's evaluation results:
+ - Mean squared error:      12.51
+ - Root mean squared error: 3.54
+ - Mean absolute error:     2.50
+ - R2 error:                -0.01
+ - F1 score:                0.16
+ - Precision:               0.11
+ - Recall:                  0.33
+ - Accuracy:                0.33
+-------------------------------------------------
+
+Random Forest model's evaluation results:
+ - Mean squared error:      11.37
+ - Root mean squared error: 3.37
+ - Mean absolute error:     2.54
+ - R2 error:                0.08
+ - F1 score:                0.08
+ - Precision:               0.09
+ - Recall:                  0.08
+ - Accuracy:                0.08
+-------------------------------------------------
+
+XGBoost Regressor model's evaluation results:
+ - Mean squared error:      10.73
+ - Root mean squared error: 3.28
+ - Mean absolute error:     2.47
+ - R2 error:                0.14
+ - F1 score:                0.14
+ - Precision:               0.13
+ - Recall:                  0.15
+ - Accuracy:                0.15
+-------------------------------------------------
+
+LightGBM regressor model's evaluation results:
+ - Mean squared error:      11.72
+ - Root mean squared error: 3.42
+ - Mean absolute error:     2.50
+ - R2 error:                0.06
+ - F1 score:                0.16
+ - Precision:               0.11
+ - Recall:                  0.27
+ - Accuracy:                0.27
+-------------------------------------------------
+
+Stacking model's evaluation results:
+ - Mean squared error:      11.06
+ - Root mean squared error: 3.33
+ - Mean absolute error:     2.52
+ - R2 error:                0.11
+ - F1 score:                0.10
+ - Precision:               0.10
+ - Recall:                  0.10
+ - Accuracy:                0.10
+-------------------------------------------------
+
