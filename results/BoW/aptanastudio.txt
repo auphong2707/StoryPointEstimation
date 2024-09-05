@@ -1,19 +1,19 @@
 Elastic Net model's evaluation results:
- - Mean squared error:      26.94
- - Root mean squared error: 5.19
- - Mean absolute error:     3.33
+ - Mean squared error:      26.86
+ - Root mean squared error: 5.18
+ - Mean absolute error:     3.35
  - R2 error:                0.10
- - F1 score:                0.03
- - Precision:               0.36
+ - F1 score:                0.02
+ - Precision:               0.06
  - Recall:                  0.03
  - Accuracy:                0.03
 -------------------------------------------------
 
-SVR RBF model's evaluation results:
- - Mean squared error:      30.55
- - Root mean squared error: 5.53
- - Mean absolute error:     3.64
- - R2 error:                -0.02
+SVR model's evaluation results:
+ - Mean squared error:      30.67
+ - Root mean squared error: 5.54
+ - Mean absolute error:     3.65
+ - R2 error:                -0.03
  - F1 score:                0.00
  - Precision:               0.00
  - Recall:                  0.00
@@ -21,25 +21,25 @@ SVR RBF model's evaluation results:
 -------------------------------------------------
 
 Random Forest model's evaluation results:
- - Mean squared error:      28.69
- - Root mean squared error: 5.36
- - Mean absolute error:     3.42
- - R2 error:                0.04
- - F1 score:                0.17
- - Precision:               0.29
+ - Mean squared error:      29.12
+ - Root mean squared error: 5.40
+ - Mean absolute error:     3.47
+ - R2 error:                0.03
+ - F1 score:                0.16
+ - Precision:               0.28
  - Recall:                  0.12
  - Accuracy:                0.12
 -------------------------------------------------
 
 XGBoost Regressor model's evaluation results:
- - Mean squared error:      30.12
- - Root mean squared error: 5.49
- - Mean absolute error:     3.54
- - R2 error:                -0.01
- - F1 score:                0.00
- - Precision:               0.00
- - Recall:                  0.00
- - Accuracy:                0.00
+ - Mean squared error:      32.38
+ - Root mean squared error: 5.69
+ - Mean absolute error:     3.64
+ - R2 error:                -0.08
+ - F1 score:                0.10
+ - Precision:               0.18
+ - Recall:                  0.08
+ - Accuracy:                0.08
 -------------------------------------------------
 
 LightGBM regressor model's evaluation results:
@@ -54,12 +54,12 @@ LightGBM regressor model's evaluation results:
 -------------------------------------------------
 
 Stacking model's evaluation results:
- - Mean squared error:      26.88
+ - Mean squared error:      26.85
  - Root mean squared error: 5.18
- - Mean absolute error:     3.33
+ - Mean absolute error:     3.35
  - R2 error:                0.10
  - F1 score:                0.02
- - Precision:               0.18
+ - Precision:               0.05
  - Recall:                  0.03
  - Accuracy:                0.03
 -------------------------------------------------
