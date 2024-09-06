@@ -4,9 +4,9 @@
         "max_depth": 1000,
         "min_samples_split": 25,
         "min_samples_leaf": 3,
-        "max_features": 200,
+        "max_features": 100,
         "n_estimators": 1024,
         "random_state": 42
     },
-    "best_score": -11.483035959345463
+    "best_score": -0.5929605903097757
 }

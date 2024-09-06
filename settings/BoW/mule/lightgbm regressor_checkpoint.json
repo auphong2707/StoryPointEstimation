@@ -8,8 +8,8 @@
         "min_data_in_leaf": 100,
         "max_depth": 5,
         "learning_rate": 0.01,
-        "feature_fraction": 1.0,
+        "feature_fraction": 0.6,
         "bagging_fraction": 0.6
     },
-    "best_score": -12.531436113266588
+    "best_score": -0.6461210177386472
 }
