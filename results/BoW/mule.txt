@@ -1,66 +1,66 @@
 Elastic Net model's evaluation results:
- - Mean squared error:      11.64
- - Root mean squared error: 3.41
- - Mean absolute error:     2.62
- - R2 error:                0.06
- - F1 score:                0.10
- - Precision:               0.09
- - Recall:                  0.12
- - Accuracy:                0.12
--------------------------------------------------
-
-SVR model's evaluation results:
- - Mean squared error:      12.51
- - Root mean squared error: 3.54
- - Mean absolute error:     2.50
+ - Mean squared error:      12.49
+ - Root mean squared error: 3.53
+ - Mean absolute error:     2.77
  - R2 error:                -0.01
- - F1 score:                0.16
- - Precision:               0.11
- - Recall:                  0.33
- - Accuracy:                0.33
--------------------------------------------------
-
-Random Forest model's evaluation results:
- - Mean squared error:      11.37
- - Root mean squared error: 3.37
- - Mean absolute error:     2.54
- - R2 error:                0.08
- - F1 score:                0.08
- - Precision:               0.09
+ - F1 score:                0.06
+ - Precision:               0.10
  - Recall:                  0.08
  - Accuracy:                0.08
 -------------------------------------------------
 
+SVR model's evaluation results:
+ - Mean squared error:      14.52
+ - Root mean squared error: 3.81
+ - Mean absolute error:     2.80
+ - R2 error:                -0.17
+ - F1 score:                0.00
+ - Precision:               0.00
+ - Recall:                  0.00
+ - Accuracy:                0.00
+-------------------------------------------------
+
+Random Forest model's evaluation results:
+ - Mean squared error:      13.64
+ - Root mean squared error: 3.69
+ - Mean absolute error:     2.70
+ - R2 error:                -0.10
+ - F1 score:                0.11
+ - Precision:               0.16
+ - Recall:                  0.14
+ - Accuracy:                0.14
+-------------------------------------------------
+
 XGBoost Regressor model's evaluation results:
- - Mean squared error:      10.73
- - Root mean squared error: 3.28
- - Mean absolute error:     2.47
- - R2 error:                0.14
- - F1 score:                0.14
- - Precision:               0.13
- - Recall:                  0.15
- - Accuracy:                0.15
+ - Mean squared error:      14.14
+ - Root mean squared error: 3.76
+ - Mean absolute error:     2.78
+ - R2 error:                -0.14
+ - F1 score:                0.07
+ - Precision:               0.11
+ - Recall:                  0.08
+ - Accuracy:                0.08
 -------------------------------------------------
 
 LightGBM regressor model's evaluation results:
- - Mean squared error:      11.72
- - Root mean squared error: 3.42
- - Mean absolute error:     2.50
- - R2 error:                0.06
- - F1 score:                0.16
- - Precision:               0.11
- - Recall:                  0.27
- - Accuracy:                0.27
+ - Mean squared error:      13.82
+ - Root mean squared error: 3.72
+ - Mean absolute error:     2.74
+ - R2 error:                -0.11
+ - F1 score:                0.03
+ - Precision:               0.13
+ - Recall:                  0.02
+ - Accuracy:                0.02
 -------------------------------------------------
 
 Stacking model's evaluation results:
- - Mean squared error:      11.06
- - Root mean squared error: 3.33
- - Mean absolute error:     2.52
- - R2 error:                0.11
+ - Mean squared error:      12.39
+ - Root mean squared error: 3.52
+ - Mean absolute error:     2.70
+ - R2 error:                0.00
  - F1 score:                0.10
- - Precision:               0.10
- - Recall:                  0.10
- - Accuracy:                0.10
+ - Precision:               0.17
+ - Recall:                  0.11
+ - Accuracy:                0.11
 -------------------------------------------------
 
