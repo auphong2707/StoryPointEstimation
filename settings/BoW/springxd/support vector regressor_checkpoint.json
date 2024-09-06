@@ -1,9 +1,9 @@
 {
     "last_combination": 116,
     "best_params": {
-        "C": 0.1,
-        "gamma": 0.01,
+        "C": 10000,
+        "gamma": 1e-06,
         "kernel": "rbf"
     },
-    "best_score": -0.24433057022393076
+    "best_score": -0.4615855083023771
 }

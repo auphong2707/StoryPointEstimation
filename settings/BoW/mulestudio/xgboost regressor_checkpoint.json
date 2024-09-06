@@ -1,0 +1,14 @@
+{
+    "last_combination": 4799,
+    "best_params": {
+        "eta": 0.105,
+        "gamma": 0.01,
+        "max_depth": 9,
+        "min_child_weight": 0.01,
+        "subsample": 0.1,
+        "reg_alpha": 0.05,
+        "n_estimators": 10,
+        "random_state": 42
+    },
+    "best_score": -0.549813083593578
+}
