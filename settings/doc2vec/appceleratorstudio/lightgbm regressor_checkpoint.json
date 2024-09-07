@@ -1,0 +1,15 @@
+{
+    "last_combination": 1079,
+    "best_params": {
+        "verbose": -1,
+        "random_state": 42,
+        "num_leaves": 72,
+        "n_estimator": 10,
+        "min_data_in_leaf": 100,
+        "max_depth": 7,
+        "learning_rate": 0.01,
+        "feature_fraction": 0.6,
+        "bagging_fraction": 0.6
+    },
+    "best_score": -0.34658512395484403
+}

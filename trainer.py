@@ -6,8 +6,7 @@ import os
 from tqdm import tqdm
 
 class GridSearchCVTrainer:
-    __directory = 'trainer_checkpoint_data/'
-    def __init__(self, name, model, param_grid, cv=5, n_jobs=-1):
+    def __init__(self, name, model, param_grid, cv=5, n_jobs=-1, directory='trainer_checkpoint_data/'):
         self.name = name
         
         self.model = model
@@ -16,6 +15,7 @@ class GridSearchCVTrainer:
         
         self.__param_combinations = self.__get_param_combinations(param_grid)
         self.__last_combination = -1
+        self.__directory = directory
         
         self.best_params_ = None
         self.best_score_ = None
