@@ -1,0 +1,10 @@
+{
+    "last_combination": 44,
+    "best_params": {
+        "alpha": 0.001,
+        "random_state": 42,
+        "l1_ratio": 1,
+        "max_iter": 100000
+    },
+    "best_score": -0.570352744212589
+}
