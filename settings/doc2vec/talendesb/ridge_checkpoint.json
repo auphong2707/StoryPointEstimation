@@ -1,0 +1,8 @@
+{
+    "last_combination": 8,
+    "best_params": {
+        "alpha": 0.1,
+        "random_state": 42
+    },
+    "best_score": -0.29862958598075534
+}
