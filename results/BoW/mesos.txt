@@ -1,66 +1,77 @@
+Ridge model's evaluation results:
+ - Mean squared error:      2.2735
+ - Root mean squared error: 1.5078
+ - Mean absolute error:     1.1233
+ - R2 error:                0.0474
+ - F1 score:                0.1893
+ - Precision:               0.1501
+ - Recall:                  0.2564
+ - Accuracy:                0.2564
+-------------------------------------------------
+
 Elastic Net model's evaluation results:
- - Mean squared error:      2.29
- - Root mean squared error: 1.51
- - Mean absolute error:     1.13
- - R2 error:                0.04
- - F1 score:                0.21
- - Precision:               0.17
- - Recall:                  0.28
- - Accuracy:                0.28
+ - Mean squared error:      2.3110
+ - Root mean squared error: 1.5202
+ - Mean absolute error:     1.1374
+ - R2 error:                0.0317
+ - F1 score:                0.2276
+ - Precision:               0.4111
+ - Recall:                  0.2949
+ - Accuracy:                0.2949
 -------------------------------------------------
 
 SVR model's evaluation results:
- - Mean squared error:      2.32
- - Root mean squared error: 1.52
- - Mean absolute error:     1.14
- - R2 error:                0.03
- - F1 score:                0.27
- - Precision:               0.41
- - Recall:                  0.33
- - Accuracy:                0.33
+ - Mean squared error:      2.3164
+ - Root mean squared error: 1.5220
+ - Mean absolute error:     1.1391
+ - R2 error:                0.0295
+ - F1 score:                0.2702
+ - Precision:               0.4135
+ - Recall:                  0.3333
+ - Accuracy:                0.3333
 -------------------------------------------------
 
 Random Forest model's evaluation results:
- - Mean squared error:      2.30
- - Root mean squared error: 1.52
- - Mean absolute error:     1.09
- - R2 error:                0.04
- - F1 score:                0.26
- - Precision:               0.21
- - Recall:                  0.36
- - Accuracy:                0.36
+ - Mean squared error:      2.2977
+ - Root mean squared error: 1.5158
+ - Mean absolute error:     1.0939
+ - R2 error:                0.0373
+ - F1 score:                0.2646
+ - Precision:               0.2096
+ - Recall:                  0.3590
+ - Accuracy:                0.3590
 -------------------------------------------------
 
 XGBoost Regressor model's evaluation results:
- - Mean squared error:      2.38
- - Root mean squared error: 1.54
- - Mean absolute error:     1.16
- - R2 error:                0.00
- - F1 score:                0.24
- - Precision:               0.31
- - Recall:                  0.29
- - Accuracy:                0.29
+ - Mean squared error:      2.3755
+ - Root mean squared error: 1.5413
+ - Mean absolute error:     1.1623
+ - R2 error:                0.0047
+ - F1 score:                0.2372
+ - Precision:               0.3072
+ - Recall:                  0.2949
+ - Accuracy:                0.2949
 -------------------------------------------------
 
 LightGBM regressor model's evaluation results:
- - Mean squared error:      2.43
- - Root mean squared error: 1.56
- - Mean absolute error:     1.15
- - R2 error:                -0.02
- - F1 score:                0.26
- - Precision:               0.20
- - Recall:                  0.35
- - Accuracy:                0.35
+ - Mean squared error:      2.4304
+ - Root mean squared error: 1.5590
+ - Mean absolute error:     1.1521
+ - R2 error:                -0.0183
+ - F1 score:                0.2556
+ - Precision:               0.2030
+ - Recall:                  0.3462
+ - Accuracy:                0.3462
 -------------------------------------------------
 
 Stacking model's evaluation results:
- - Mean squared error:      2.27
- - Root mean squared error: 1.51
- - Mean absolute error:     1.12
- - R2 error:                0.05
- - F1 score:                0.21
- - Precision:               0.17
- - Recall:                  0.29
- - Accuracy:                0.29
+ - Mean squared error:      2.2572
+ - Root mean squared error: 1.5024
+ - Mean absolute error:     1.1155
+ - R2 error:                0.0543
+ - F1 score:                0.2121
+ - Precision:               0.1682
+ - Recall:                  0.2885
+ - Accuracy:                0.2885
 -------------------------------------------------
 
