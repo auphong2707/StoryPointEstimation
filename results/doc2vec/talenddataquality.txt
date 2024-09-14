@@ -21,12 +21,12 @@ Elastic Net model's evaluation results:
 -------------------------------------------------
 
 SVR model's evaluation results:
- - Mean squared error:      16.1321
- - Root mean squared error: 4.0165
- - Mean absolute error:     3.4133
- - R2 error:                -2.5788
- - F1 score:                0.0410
- - Precision:               0.0470
+ - Mean squared error:      16.0696
+ - Root mean squared error: 4.0087
+ - Mean absolute error:     3.4160
+ - R2 error:                -2.5650
+ - F1 score:                0.0398
+ - Precision:               0.0459
  - Recall:                  0.0531
  - Accuracy:                0.0531
 -------------------------------------------------
@@ -65,12 +65,12 @@ LightGBM regressor model's evaluation results:
 -------------------------------------------------
 
 Stacking model's evaluation results:
- - Mean squared error:      10.2635
- - Root mean squared error: 3.2037
- - Mean absolute error:     2.8837
- - R2 error:                -1.2769
- - F1 score:                0.0364
- - Precision:               0.0462
+ - Mean squared error:      10.3419
+ - Root mean squared error: 3.2159
+ - Mean absolute error:     2.9007
+ - R2 error:                -1.2943
+ - F1 score:                0.0360
+ - Precision:               0.0920
  - Recall:                  0.0619
  - Accuracy:                0.0619
 -------------------------------------------------
