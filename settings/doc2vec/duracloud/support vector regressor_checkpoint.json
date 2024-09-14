@@ -1,7 +1,8 @@
 {
-    "last_combination": 116,
+    "last_combination": 1052,
     "best_params": {
         "C": 1,
+        "epsilon": 0.1,
         "gamma": 1000.0,
         "kernel": "rbf"
     },
