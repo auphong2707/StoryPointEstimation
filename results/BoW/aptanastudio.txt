@@ -21,14 +21,14 @@ Elastic Net model's evaluation results:
 -------------------------------------------------
 
 SVR model's evaluation results:
- - Mean squared error:      30.6723
- - Root mean squared error: 5.5383
- - Mean absolute error:     3.6485
- - R2 error:                -0.0262
- - F1 score:                0.0000
- - Precision:               0.0000
- - Recall:                  0.0000
- - Accuracy:                0.0000
+ - Mean squared error:      29.8907
+ - Root mean squared error: 5.4672
+ - Mean absolute error:     3.4002
+ - R2 error:                -0.0000
+ - F1 score:                0.0003
+ - Precision:               0.0002
+ - Recall:                  0.0130
+ - Accuracy:                0.0130
 -------------------------------------------------
 
 Random Forest model's evaluation results:
